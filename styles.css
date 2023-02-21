@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400;700&display=swap');
+
+p{
+    color:  #484349;
+}
+#id1{
+    color: #484349;
+    font-size: 25px;
+}
+.navbar a{
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: underline;
+    color: #18A999;
+     
+}
+li{
+    list-style: disc;
+    color: chocolate;
+
+}
+.claseparrafo1{
+    font-size: 25px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    opacity: 0.3px;
+    border-radius: 15px;
+
+}
+.container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.container2{
+    margin-top:100px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.container-card1{
+    width: 400px;
+}
+.card1{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: lavenderblush;
+}
+
+.Imagen{
+    width: 100%;
+    height: 200px;
+}
+    
+.titulo{
+    text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.descripcion{
+    text-align: justify;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.botonver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+} 
+
+.container-card2{
+    width: 400px;
+}
+.card2{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: aliceblue;
+}
+.container-card3{
+    width: 400px;
+}
+.card3{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: lavenderblush;
+}
+.container-card4{
+    width: 400px;
+}
+.card4{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: aliceblue;
+}
+.container-card5{
+    width: 400px;
+}
+.card5{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: lavenderblush;
+}
+.container-card6{
+    width: 400px;
+}
+.card6{
+    border: 10px solid plum;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: aliceblue;
+}
+
